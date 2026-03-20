@@ -56,8 +56,5 @@ class Program
         {
             Console.WriteLine($"Resultado: {resultado}");
         }
-
-
-
     }
 }
